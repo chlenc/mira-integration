@@ -1,5 +1,5 @@
 {
-  "name": "git remote add origin git@github.com:chlenc/mira-integration.git",
+  "name": "mira-integration",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
